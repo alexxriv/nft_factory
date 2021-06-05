@@ -1,15 +1,15 @@
-const SimpleStorage = artifacts.require("./SimpleStorage.sol");
+//artifacts are in json file
+const Color = artifacts.require('./Color.sol')
 
-contract("SimpleStorage", accounts => {
-  it("...should store the value 89.", async () => {
-    const simpleStorageInstance = await SimpleStorage.deployed();
+require('chai')
+  .use(require('chai-as-promised'))
+  .should()
 
-    // Set value of 89
-    await simpleStorageInstance.set(89, { from: accounts[0] });
+conntract('Color', (accounts) => {
 
-    // Get stored value
-    const storedData = await simpleStorageInstance.get.call();
+  describe('deployment', async()=> { //container for it tests
+    it('deploys succesfully', async() => {
 
-    assert.equal(storedData, 89, "The value 89 was not stored.");
-  });
-});
+    })
+  })
+})
