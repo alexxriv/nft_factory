@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nft_factory/static/css/main.1093c03b.chunk.css",
-    "main.js": "/nft_factory/static/js/main.170f5335.chunk.js",
-    "main.js.map": "/nft_factory/static/js/main.170f5335.chunk.js.map",
+    "main.js": "/nft_factory/static/js/main.27bdff71.chunk.js",
+    "main.js.map": "/nft_factory/static/js/main.27bdff71.chunk.js.map",
     "runtime-main.js": "/nft_factory/static/js/runtime-main.f5bf7a73.js",
     "runtime-main.js.map": "/nft_factory/static/js/runtime-main.f5bf7a73.js.map",
     "static/css/2.a5f06b7f.chunk.css": "/nft_factory/static/css/2.a5f06b7f.chunk.css",
     "static/js/2.e6b80535.chunk.js": "/nft_factory/static/js/2.e6b80535.chunk.js",
     "static/js/2.e6b80535.chunk.js.map": "/nft_factory/static/js/2.e6b80535.chunk.js.map",
     "index.html": "/nft_factory/index.html",
-    "precache-manifest.56dc8b1678b456521dab301ab8dd5bfe.js": "/nft_factory/precache-manifest.56dc8b1678b456521dab301ab8dd5bfe.js",
+    "precache-manifest.6aa1889b87a125a7c4b283bcab25f800.js": "/nft_factory/precache-manifest.6aa1889b87a125a7c4b283bcab25f800.js",
     "service-worker.js": "/nft_factory/service-worker.js",
     "static/css/2.a5f06b7f.chunk.css.map": "/nft_factory/static/css/2.a5f06b7f.chunk.css.map",
     "static/css/main.1093c03b.chunk.css.map": "/nft_factory/static/css/main.1093c03b.chunk.css.map"
@@ -19,6 +19,6 @@
     "static/css/2.a5f06b7f.chunk.css",
     "static/js/2.e6b80535.chunk.js",
     "static/css/main.1093c03b.chunk.css",
-    "static/js/main.170f5335.chunk.js"
+    "static/js/main.27bdff71.chunk.js"
   ]
 }

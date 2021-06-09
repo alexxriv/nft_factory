@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0e1a734507739680f5b45c36c63fcc95",
+    "revision": "918b46a780cdcc3825b7be958bb30301",
     "url": "/nft_factory/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nft_factory/static/css/2.a5f06b7f.chunk.css"
   },
   {
-    "revision": "3c77446789d866cf411e",
+    "revision": "6d5418988ca4fcd8d781",
     "url": "/nft_factory/static/css/main.1093c03b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/nft_factory/static/js/2.e6b80535.chunk.js"
   },
   {
-    "revision": "3c77446789d866cf411e",
-    "url": "/nft_factory/static/js/main.170f5335.chunk.js"
+    "revision": "6d5418988ca4fcd8d781",
+    "url": "/nft_factory/static/js/main.27bdff71.chunk.js"
   },
   {
     "revision": "dc1405043fa9737a9e97",
