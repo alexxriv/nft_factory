@@ -37,7 +37,7 @@ class App extends Component {
           //Load NFT tokens (Colors) to website, similar to test file
           for (var i=1; i <= totalSupply; i++) {
 
-            const color = "#".concat(await contract.methods.colors(i-1).call()) 
+            const color = await contract.methods.colors(i-1).call()
             this.setState({
               colors: [...this.state.colors, color] //... = appends color to array "colors"
             })
